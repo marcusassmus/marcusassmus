@@ -39,6 +39,20 @@
         alt="Google Scholar icon"/>
       https://scholar.google.de/citations?user=uZQ4QIEAAAAJ
     </a>
+    </br>    
+<a
+    id="cy-effective-scopus-url"
+    class="underline"
+     href="https://www.scopus.com/authid/detail.uri?authorId=36536464200"
+     target="scopus.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://www.scopus.com/static/proteus-images/favicon.ico?ver=1.0"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="Scopus icon"/>
+      https://www.scopus.com/authid/detail.uri?authorId=36536464200
+    </a>
 <!--
 **marcusassmus/marcusassmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
