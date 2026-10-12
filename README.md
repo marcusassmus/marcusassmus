@@ -49,6 +49,11 @@
         alt="Scopus icon"/>
       https://www.scopus.com/authid/detail.uri?authorId=36536464200
     </a>
+
+<p>    &nbsp; </p>
+    
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcusassmus&show_icons=true&locale=en&layout=compact&custom_title=Languages%20%26%20Tools&size_weight=0&count_weight=1" alt="marcusassmus" /></p>
+
 <!--
 **marcusassmus/marcusassmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
